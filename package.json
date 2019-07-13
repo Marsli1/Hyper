@@ -1,0 +1,15 @@
+{
+  "name": "dilay",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Ravil",
+  "license": "ISC",
+  "dependencies": {
+    "bot.js": "0.0.1",
+    "discord.js": "^11.5.1"
+  }
+}
