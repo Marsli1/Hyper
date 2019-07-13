@@ -823,6 +823,6 @@ client.on('guildBanAdd' , (guild, user) => {
   if (!aramızakatılanlar) return;
   aramızakatılanlar.send('https://media.giphy.com/media/8njotXALXXNrW/giphy.gif **Adalet dağıtma zamanı gelmiş!** '+ user.username +'**Bakıyorum da suç işlemiş,Yargı dağıtmaya devam** :fist: :writing_hand:  :spy:' );
 });
-client.login('NTk5NjQyMTg0OTg3MzEyMTQw.XSoKtg.7B9Y4LuTNrpeB40mt_FqBnkSx0g');
+
 
 client.login(procces.env.BOT_TOKEN);
